@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @kasarci
+- 👋 Hi, I’m [@kasarci](www.github.com/kasarci)
 - 👀 I’m interested in Web Development and Industrial Automation!
