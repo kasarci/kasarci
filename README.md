@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @kasarci
+- 👀 I’m interested in Web Development and Industrial Automation!
