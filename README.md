@@ -6,7 +6,7 @@
    
     👀 I’m interested in Web Development and Industrial Automation!
    
-    🔭 I’m currently exploring .NET 6.
+    🔭 I’m currently exploring .NET and React.
    
 </tr>
 </table>
@@ -14,7 +14,7 @@
 
 <br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kasarci&theme=nord&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kasarci&theme=nord&hide_border=true)
 
 <br> 
 <div align="center">
