@@ -14,7 +14,7 @@
 
 <br>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kasarci&theme=nord&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kasarci&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br> 
 <div align="center">
